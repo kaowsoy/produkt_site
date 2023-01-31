@@ -1,0 +1,23 @@
+#nav {
+  display: flex;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  list-style: none;
+  justify-self: center;
+}
+
+#nav_menu a {
+  display: block;
+  padding: 29px;
+  font-size: 130%;
+  text-decoration: none;
+  text-align: center;
+  font-family: "Apercu";
+  color: black;
+}
+
+@font-face {
+  font-family: apercu;
+  src: url("../fonts/apercu_ttf/Apercu-Medium-kopi.ttf");
+}
